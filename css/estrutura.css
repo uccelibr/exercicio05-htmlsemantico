@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+  }
+  
+  body {
+    font-size: 100%;
+    background-color: #e6e6e6;
+    margin-left: 5%;
+  
+  }
+  
+  .cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #b6b2b2;
+  }
+  
+  .cabecalho-imagem {
+    height: 70px;
+    flex-direction:initial;
+  }
+  
+  .cabecalho-menu {
+    display: flex;
+    gap: 60px;
+  }
+  
+  .cabecalho-menu-item {
+    font-family: 'Sarala', sans-serif;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 18px
+
+  }
+  
+  section p{
+      width: 50%;
+  align-items: center;
+    font-family:  Tahoma, sans-serif;
+    font-size: medium;
+    padding: 20px;
+  color: #857767;
+  text-indent: 1cm;
+
+  }
+  
+  .titulo {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 40;
+    font-size: 20px;
+    color: #201d1a;
+    text-indent: 2cm;
+    
+
+  }
+  
+  .subtitulo {
+    font-family: sans-serif;
+    font-weight: 30;
+    font-size: 15px;
+    color: #3f3832;
+  
+  }
+  
+  .principal{
+  font-family: sans-serif;
+  font-size: medium;
+  padding: auto;
+  
+  
+
+  }
+
+.inicial{
+  font-family: Tahoma, sans-serif;
+  font-size: medium;
+padding: 20px;
+
+
+
+  }
+.apresentacao{
+  font-family:Tahoma, sans-serif;
+  font-size: medium;
+  padding: 20px;
+  
+
+  }
+.portifolio{
+height: 300px;
+
+}
+
+  footer{color:  #3f3832;
+    font-family:sans-serif;
+    padding: 20px;
+    
+
+  }
